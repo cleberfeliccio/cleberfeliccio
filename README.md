@@ -27,7 +27,7 @@ Atualmente estudante de Analise e Desenvolvimento de Sistemas, focado em ciencia
 [Analise de cancelamento de clientes](https://github.com/cleberfeliccio/Python_Insides)<br>
 [Analise de Previsão de Credito](https://github.com/cleberfeliccio/projeto_credito)<br>
 [Projeto de Automação de cadastro de Clientes](https://github.com/cleberfeliccio/Python-PowerUp)<br>
-[Projeto de Rede Corporativa](em andamento)
+[Projeto de Rede Corporativa](https://github.com/cleberfeliccio/Rede_Corporativa)
 
 Se desejar, visite meu [LinkedIn](https://www.linkedin.com/in/cleberfelicio/) para conferir minhas experiencias,educação e certificados!
    
