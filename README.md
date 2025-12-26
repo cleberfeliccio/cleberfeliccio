@@ -1,16 +1,15 @@
-## Hi there 👋
+## Ola ,eu sou o Cleber  :)
+Atualmente estudante de Analise e Desenvolvimento de Sistemas, focado em ciencia de dados,desenvolvimento areas as quais gosto muito. Curioso sobre redes e jogos estudando esses conceitos nas horas vagas
 
-<!--
-**cleberfeliccio/cleberfeliccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 **Conhecimento**
+- 🖥️ Atualmente focado em:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img width='50' heigth= '50' src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" />
+ <img width='50' heigth= '50' src="https://devicon-website.vercel.app/api/r/original.svg " />
+ <img width='50' heigth= '50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" />
+ 
+          
+  
+
+
