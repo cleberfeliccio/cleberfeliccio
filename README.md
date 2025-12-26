@@ -1,5 +1,5 @@
 ## Ola ,eu sou o Cleber  :)
-Atualmente estudante de Analise e Desenvolvimento de Sistemas, focado em ciencia de dados,desenvolvimento areas as quais gosto muito. Curioso sobre redes e jogos estudando esses conceitos nas horas vagas
+Atualmente estudante de Analise e Desenvolvimento de Sistemas, focado em ciencia de dados e desenvolvimento das quais são areas gosto muito. Curioso sobre redes e jogos estudando esses conceitos nas horas vagas
 
 - 👨🏻‍💻 **Conhecimento** sempre é bem vindo
 - 🖥️ Atualmente bem focado em:
