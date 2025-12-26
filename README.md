@@ -8,6 +8,7 @@ Atualmente estudante de Analise e Desenvolvimento de Sistemas, focado em ciencia
  <img width='50' heigth= '50' src="https://icongr.am/devicon/python-original.svg?size=50&color=currentColor" />
  <img width='50' heigth= '50' src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000"/>
  <img width='50' heigth= '50' src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000"/>
+ <img width='50' heigth= '50' src="https://img.icons8.com/?size=100&id=vWnUAg7jlpQT&format=png&color=000000"/>
  </div> 
 
   ##
